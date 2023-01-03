@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: br.com.meslin.API-HTTPConnection:API-HTTPConnection:0.1">
+    <archive path="C:/Users/Jude/.m2/repository/br/com/meslin/API-HTTPConnection/API-HTTPConnection/0.1/API-HTTPConnection-0.1.jar" />
+  </library>
+  <library name="Maven: com.dlsc.formsfx:formsfx-core:11.4.2">
+    <archive path="C:/Users/Jude/.m2/repository/com/dlsc/formsfx/formsfx-core/11.4.2/formsfx-core-11.4.2.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.11.4">
+    <archive path="C:/Users/Jude/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar" />
+  </library>
+  <library name="Maven: eu.hansolo:tilesfx:17.0.3">
+    <archive path="C:/Users/Jude/.m2/repository/eu/hansolo/tilesfx/17.0.3/tilesfx-17.0.3.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:8.0.25">
+    <archive path="C:/Users/Jude/.m2/repository/mysql/mysql-connector-java/8.0.25/mysql-connector-java-8.0.25.jar" />
+  </library>
+  <library name="Maven: net.synedra:validatorfx:0.2.1">
+    <archive path="C:/Users/Jude/.m2/repository/net/synedra/validatorfx/0.2.1/validatorfx-0.2.1.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.controlsfx:controlsfx:11.1.1">
+    <archive path="C:/Users/Jude/.m2/repository/org/controlsfx/controlsfx/11.1.1/controlsfx-11.1.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter:5.7.1">
+    <archive path="C:/Users/Jude/.m2/repository/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-params:5.7.1">
+    <archive path="C:/Users/Jude/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.8.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.8.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar" />
+  </library>
+  <library name="Maven: org.kordamp.bootstrapfx:bootstrapfx-core:0.4.0">
+    <archive path="C:/Users/Jude/.m2/repository/org/kordamp/bootstrapfx/bootstrapfx-core/0.4.0/bootstrapfx-core-0.4.0.jar" />
+  </library>
+  <library name="Maven: org.kordamp.ikonli:ikonli-core:12.2.0">
+    <archive path="C:/Users/Jude/.m2/repository/org/kordamp/ikonli/ikonli-core/12.2.0/ikonli-core-12.2.0.jar" />
+  </library>
+  <library name="Maven: org.kordamp.ikonli:ikonli-javafx:12.2.0">
+    <archive path="C:/Users/Jude/.m2/repository/org/kordamp/ikonli/ikonli-javafx/12.2.0/ikonli-javafx-12.2.0.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:jetty:6.1.26">
+    <archive path="C:/Users/Jude/.m2/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:jetty-util:6.1.26">
+    <archive path="C:/Users/Jude/.m2/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar" />
+  </library>
+  <library name="Maven: org.mortbay.jetty:servlet-api:2.5-20081211">
+    <archive path="C:/Users/Jude/.m2/repository/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:win:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-base/17.0.2/javafx-base-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:win:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-controls/17.0.2/javafx-controls-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:win:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-fxml/17.0.2/javafx-fxml-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:win:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-graphics/17.0.2/javafx-graphics-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-media:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-media/17.0.2/javafx-media-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-media:win:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-media/17.0.2/javafx-media-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-web:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-web/17.0.2/javafx-web-17.0.2.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-web:win:17.0.2">
+    <archive path="C:/Users/Jude/.m2/repository/org/openjfx/javafx-web/17.0.2/javafx-web-17.0.2-win.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/Jude/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.xerial:sqlite-jdbc:3.36.0.3">
+    <archive path="C:/Users/Jude/.m2/repository/org/xerial/sqlite-jdbc/3.36.0.3/sqlite-jdbc-3.36.0.3.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,14 @@
+-----------------------------------   Your HACK Stats!   -----------------------------------
+You were defeated by a Slime.
+
+You slayed 4 enemies.
+	Slime's Fought.......2
+	Skeleton's Fought....3
+	Troll's Fought.......0
+
+You were attacked 7 times!
+You broke 1 shield(s)!
+You drank 3 health potion(s)!
+
+Your Inventory:
+[Sword]

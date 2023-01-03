@@ -1,0 +1,11 @@
+--------------------------------   Welcome to HACK!   --------------------------------
+You find yourself within a dungeon filled with Enemies. You must fight these Enemies
+one by one, until you are defeated. You begin with 2 health potions, a sword, a shield,
+and 100 health.
+
+The enemy will always attack you back if you attack them.
+When an enemy is defeated, they might drop a health potion or a shield.
+You can only carry one shield at a time.
+
+Good Luck!
+---------------------------------------------------------------------------------------------
